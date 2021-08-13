@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Abduallah Al-Mamun</h1>
 <h3 align="center">Security Enthusiast | Developer | Entrepreneur</h3>
 
-- 🔭 I’m currently working on **Cyber Security & Programing**
+- 🔭 I’m currently working on **Cyber Security & Programing Stuff**
 
 - 🌱 I’m currently learning **Hacking, Programing & Startup**
 
