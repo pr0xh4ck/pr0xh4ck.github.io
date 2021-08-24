@@ -60,6 +60,7 @@
 
 ### hall-of-fame
   - [knb.nl](https://www.knb.nl/responsible-disclosure-hall-of-fame?fbclid=IwAR0ruDzGy1TwgmQJMk-QidqoQH8mnvcV6_kvJy4zoZ1bN6BCHnVc3F8yZeM)
+  - [portswigger web security](https://portswigger.net/web-security/hall-of-fame)
 
 
 ### acknowledgement
