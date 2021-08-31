@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Hacking, Programing & Startup**
 
-- 👨‍💻 All of my projects are available at [pr0xh4ck](https://github.com/pr0xh4ck)
+- 👨‍💻 All of my projects are available at [pr0xh4ck](https://github.com/pr0xh4ck?tab=repositories)
 
 - 💬 Ask me about **Hacking, Programing & Startup**
 
