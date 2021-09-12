@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Cyber Security & Programing Stuff**
 
-- 🌱 I’m currently learning **Hacking, Programing & Startup**
+- 🌱 I’m currently learning **Hacking, Programing**
 
 - 👨‍💻 All of my projects are available at [pr0xh4ck](https://github.com/pr0xh4ck?tab=repositories)
 
