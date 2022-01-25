@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **Hacking, Programing & Startup**
 
-- 📫 How to reach me **pr0xh4ck@outlook.com**
+- 📫 How to reach me **pr0xh4ck@gmail.com**
 
 - 📄 Know about my experiences [pr0xh4ck](https://pr0xh4ck.github.io)
 
-- ⚡ Fun fact **I think I'm exception than other's**
+- ⚡ Fun fact **I think I'm exception than others**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -63,9 +63,10 @@
 ### hall-of-fame
   - [knb.nl](https://www.knb.nl/responsible-disclosure-hall-of-fame?fbclid=IwAR0ruDzGy1TwgmQJMk-QidqoQH8mnvcV6_kvJy4zoZ1bN6BCHnVc3F8yZeM)
   - [portswigger web security](https://portswigger.net/web-security/hall-of-fame)
+  - [walmart](https://www.walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb)
 
 
 ### acknowledgement
   - [uvic.ca](https://www.uvic.ca/systems/support/informationsecurity/vulnerabilitydisclosure/index.php?fbclid=IwAR0mK9bo5Y36x-OAw1rPCqT0Ghh8ux3waKuOXfXhk1TjIIFrebxwn7dQayU)
-
+  - [apple](https://support.apple.com/en-us/HT201536)
 
