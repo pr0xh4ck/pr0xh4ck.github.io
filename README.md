@@ -3,13 +3,13 @@
 
                                                        ***Construction is underway***
 
-- 🔭 I’m currently working on **Cyber Security & Programing Stuff**
+- 🔭 I’m currently working on **Cyber Security Field**
 
-- 🌱 I’m currently learning **Hacking, Programing**
+- 🌱 I’m currently learning **Solidity**
 
 - 👨‍💻 All of my projects are available at [pr0xh4ck](https://github.com/pr0xh4ck?tab=repositories)
 
-- 💬 Ask me about **Hacking, Programing & Startup**
+- 💬 Ask me about **Technology**
 
 - 📫 How to reach me **pr0xh4ck@gmail.com**
 
