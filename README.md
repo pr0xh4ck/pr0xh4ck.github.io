@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Abduallah Al-Mamun</h1>
-<h3 align="center">Security Enthusiast | Developer | Entrepreneur</h3>
+<h3 align="center">Security Enthusiast | Developer | Entrepreneur | Student</h3>
 
                                                        ***Construction is underway***
 
