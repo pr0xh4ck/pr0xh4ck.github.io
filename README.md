@@ -3,7 +3,7 @@
 
                                                        ***Construction is underway***
 
-- 🔭 I’m currently working on **Cyber Security Field**
+- 🔭 I’m currently working on **Security**
 
 - 🌱 I’m currently learning **Solidity**
 
